@@ -107,6 +107,17 @@ LayerNorm
 Linear → Vocabulary Logits
 ```
 
+## Training Results
+
+Training and validation loss tracked with Weights & Biases. The run was resumed from a checkpoint (two runs shown in the plot), going from a loss of about 8.5 at the start down to roughly 5.5 after about 7k iterations.
+
+![Training and validation loss](images/training_curves.png)
+
+| Metric     | Value |
+|------------|-------|
+| Train loss | 5.48  |
+| Val loss   | 5.50  |
+
 ## Notes
 
 - The script was exported from a Google Colab notebook, so some cells (such as `!pip install`) only work in a notebook environment. Remove or replace them when running as a plain `.py` file.
