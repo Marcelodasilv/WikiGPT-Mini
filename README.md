@@ -113,14 +113,6 @@ Training and validation loss tracked with Weights & Biases. The run was resumed 
 
 <img width="1480" height="690" alt="image" src="https://github.com/user-attachments/assets/420aaf77-1148-479c-882c-97292afcc691" />
 
-<img width="421" height="288" alt="image" src="https://github.com/user-attachments/assets/c58958d9-14dc-4ae8-bc34-4256855b4aef" />
-
-
-| Metric     | Value |
-|------------|-------|
-| Train loss | 5.48  |
-| Val loss   | 5.50  |
-
 ## Notes
 
 - The script was exported from a Google Colab notebook, so some cells (such as `!pip install`) only work in a notebook environment. Remove or replace them when running as a plain `.py` file.
