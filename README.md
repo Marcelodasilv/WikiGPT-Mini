@@ -112,6 +112,10 @@ Linear → Vocabulary Logits
 - The script was exported from a Google Colab notebook, so some cells (such as `!pip install`) only work in a notebook environment. Remove or replace them when running as a plain `.py` file.
 - Text generation uses plain multinomial sampling (no temperature or top-k yet).
 
+## Acknowledgements
+
+This project was built while following the course by [Javier Ideami](https://ideami.com), and it is based on the concepts and code structure taught there. It is intended as a learning project.
+
 ## License
 
 Choose a license for your project (for example, MIT) and add a `LICENSE` file.
