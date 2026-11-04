@@ -111,7 +111,10 @@ Linear → Vocabulary Logits
 
 Training and validation loss tracked with Weights & Biases. The run was resumed from a checkpoint (two runs shown in the plot), going from a loss of about 8.5 at the start down to roughly 5.5 after about 7k iterations.
 
-![Training and validation loss](images/training_curves.png)
+<img width="1480" height="690" alt="image" src="https://github.com/user-attachments/assets/420aaf77-1148-479c-882c-97292afcc691" />
+
+<img width="421" height="288" alt="image" src="https://github.com/user-attachments/assets/c58958d9-14dc-4ae8-bc34-4256855b4aef" />
+
 
 | Metric     | Value |
 |------------|-------|
