@@ -128,4 +128,4 @@ Training and validation loss tracked with Weights & Biases. The run was resumed 
 
 ## Acknowledgements
 
-This project was built while following the course by [Javier Ideami](https://ideami.com), and it is based on the concepts and code structure taught there. It is intended as a learning project.
+I built this project by following the course by [Javier Ideami](LINK_DO_CURSO), typing and running all the code myself while studying how GPT-style models work. The architecture and overall structure are based on the course material.
