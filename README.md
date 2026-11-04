@@ -129,7 +129,3 @@ Training and validation loss tracked with Weights & Biases. The run was resumed 
 ## Acknowledgements
 
 This project was built while following the course by [Javier Ideami](https://ideami.com), and it is based on the concepts and code structure taught there. It is intended as a learning project.
-
-## License
-
-Choose a license for your project (for example, MIT) and add a `LICENSE` file.
